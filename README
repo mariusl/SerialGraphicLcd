@@ -1,0 +1,4 @@
+A Netduino set of libraries, written in C# , for the Sparkfun Serial Backpack driver for graphic lcd's. 
+It allows you to create a group of items to display on one screen. 
+These "windows" of grouped items has static variables that can be affected from anywhere in the code. 
+The windows are displayed as a whole group or items in the window can be written to.
